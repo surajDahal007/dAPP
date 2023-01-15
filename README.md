@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# First dApp using Hardhat
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
@@ -10,4 +10,10 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
+```
+
+## Netlify
+
+```url
+https://firstdapp-suraj.netlify.app/
 ```
